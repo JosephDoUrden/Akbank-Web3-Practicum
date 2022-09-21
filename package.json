@@ -1,0 +1,22 @@
+{
+  "name": "akbank-web3-practicum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JosephDoUrden/Akbank-Web3-Practicum.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JosephDoUrden/Akbank-Web3-Practicum/issues"
+  },
+  "homepage": "https://github.com/JosephDoUrden/Akbank-Web3-Practicum#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.3"
+  }
+}
